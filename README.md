@@ -56,12 +56,12 @@ boundary?
   
 Conclusion:
 
-	In conclusion, the graph I want to talk about is graph 3. There is a pattern with the outline of 
-  the plates and the number of earthquakes. We see there is a plethora of earthquakes and their size 
-  that follow the plates, and only two earthquakes outside of this region. There is also a lot of 
-  earthquakes along the coastline which will be the subduction line. It proves the point that where 
-  ever these plate meet, there is going to be a consistent amount of earthquakes and the points where 
-  three plates meet up, they will be larger in size.
+In conclusion, the graph I want to talk about is graph 3. There is a pattern with the outline of 
+the plates and the number of earthquakes. We see there is a plethora of earthquakes and their size 
+that follow the plates, and only two earthquakes outside of this region. There is also a lot of 
+earthquakes along the coastline which will be the subduction line. It proves the point that where 
+ever these plate meet, there is going to be a consistent amount of earthquakes and the points where 
+three plates meet up, they will be larger in size.
   
 References:
 
